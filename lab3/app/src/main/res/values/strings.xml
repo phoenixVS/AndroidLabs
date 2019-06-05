@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string-array name="values">
+        <item>setting #1</item>
+        <item>setting #2</item>
+        <item>setting #3</item>
+        <item>setting #4</item>
+    </string-array>
+</resources>
